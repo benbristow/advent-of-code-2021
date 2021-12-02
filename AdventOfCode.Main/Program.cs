@@ -8,7 +8,8 @@ namespace AdventOfCode.Main
         // TODO: Probably make this a bit nicer
         private static readonly IChallenge[] Challenges =
         {
-            new Day1.Day1()
+            new Day1.Day1(),
+            new Day2.Day2()
         };
 
         public static void Main()
