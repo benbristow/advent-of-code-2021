@@ -10,7 +10,8 @@ namespace AdventOfCode.Main
         {
             new Day1.Day1(),
             new Day2.Day2(),
-            new Day3.Day3()
+            new Day3.Day3(),
+            new Day4.Day4()
         };
 
         public static void Main()
